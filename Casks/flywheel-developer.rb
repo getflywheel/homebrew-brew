@@ -23,7 +23,6 @@ cask 'flywheel-developer' do
                libyaml
                pkg-config
                puma-dev
-               mysql
                redis
                docker-compose
                kubectl
