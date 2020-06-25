@@ -19,6 +19,7 @@ cask 'flywheel-developer' do
                coreutils
                direnv
                libksba
+               libsodium
                libxml2
                libyaml
                pkg-config
