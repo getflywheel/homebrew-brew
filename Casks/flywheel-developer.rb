@@ -25,6 +25,7 @@ cask 'flywheel-developer' do
                pkg-config
                puma-dev
                redis
+               shared-mime-info
                docker-compose
                kubectl
                packer
